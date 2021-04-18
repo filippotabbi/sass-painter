@@ -1,0 +1,38 @@
+
+.bg-00{
+  background-color: #000;
+}
+.top-info{
+  position: relative;
+  padding-top: 20px;
+}
+.top-info ul{
+  position: absolute;
+  right: 0;
+}
+.top-info ul li{
+  display: inline;
+  padding: 0px 5px;
+}
+.top-info i{
+  color: blue;
+  padding: 0px 5px;
+}
+.navbar .logo{
+  height: 40px;
+  margin-left: -20px;
+}
+.navbar{
+  padding-top: 30px;
+  padding-left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  color: #FFF;
+}
+.navbar ul{
+  display: inline;
+}
+.navbar ul li{
+  padding: 0 10px;
+}

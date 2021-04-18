@@ -1,0 +1,11 @@
+footer section {
+  padding: 20px 0;
+}
+footer section ul li{
+  display: block;
+}
+.space-btw{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
